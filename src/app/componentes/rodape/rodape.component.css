@@ -4,8 +4,7 @@ footer {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;
   gap: 0px 0px;
-  grid-template-areas:
-    "TextoCopyright LogoRodape .";
+  grid-template-areas: "TextoCopyright LogoRodape .";
   align-items: center;
   padding: 1rem 2rem;
 }
@@ -30,7 +29,7 @@ footer small {
   }
 
   .cabecalho p {
-    font-size: 1.5rem
+    font-size: 1.5rem;
   }
 }
 
